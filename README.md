@@ -1,7 +1,7 @@
 This is a small exploration in Image compression. I performed image compression through two beautiful concepts - Singular Value Decomposition (SVD) and K Means Clustering.
 The code files will give a background behind each of the concepts used. The repository also contains the images used for reference. 
 
-Please use the notebooks to play around with the K values to see how the compressed image looks like. Please find below the results from the compression which shows the original image against the compressed image. It also shows the Compression ratio to give a sense of how compressed the image is for the chosen K.
+Please use the notebooks to play around with the K values to see how the compressed image looks like. Please find below the results from the compression which shows the original image against the compressed image. It also shows the Compression ratio (for SVD) and the compressed file sizes (for K Means) to give a sense of how compressed the images are for the chosen K.
 
 # Singular Value Decomposition (SVD)
 
@@ -34,3 +34,19 @@ Please use the notebooks to play around with the K values to see how the compres
 
 
 # K Means Clustering
+
+### I) <ins>Comparison of the images: </ins>
+
+![image](https://user-images.githubusercontent.com/104417912/201450344-91482d57-1af1-45e6-b2fd-ac822e705829.png)
+
+
+![image](https://user-images.githubusercontent.com/104417912/201450355-30d9241b-84b8-4b5b-8525-c32f94f8235f.png)
+
+
+![image](https://user-images.githubusercontent.com/104417912/201450372-47b5068b-5348-4472-9313-53d419f94270.png)
+
+### II) <ins>Comparison of the file sizes: </ins>
+
+![image](https://user-images.githubusercontent.com/104417912/201450536-544c370e-a63a-4102-83ce-ea00002fb28c.png)
+
+

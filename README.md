@@ -1,7 +1,7 @@
 In this project, I performed image compression through two beautiful concepts - Singular Value Decomposition (SVD) and K Means Clustering.
 The code files will give a background behind each of the concepts used. The repository also contains the images used for reference. 
 
-Please use the notebooks to play around with the K values to see how the compressed image looks like. Find below the results from the compression which shows the original image against the compressed image. It also shows the Compression ratio (for SVD) and the compressed file sizes (for K Means) to give a sense of how compressed the images are for the chosen K.
+Please use the notebooks to play around with the K values to see how the compressed image looks like. The SVD notebook has interactive widgets, which you can use to choose different images and k values and check real-time how the choice of k values affect the quality of the compressed image. Find below the results from the compression which shows the original image against the compressed image. It also shows the Compression ratio (for SVD) and the compressed file sizes (for K Means) to give a sense of how compressed the images are for the chosen K.
 
 # Singular Value Decomposition (SVD)
 
